@@ -1,5 +1,6 @@
 # https-windfloki.io-
 Website for Wind Floki Inu
+and
 Source Code for Wind Floki Inu
 pragma solidity ^0.8.2;
 	
